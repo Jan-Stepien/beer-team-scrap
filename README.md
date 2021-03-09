@@ -15,4 +15,4 @@ Add new beers
 scrapping project to start over:
 ![alt text][gif]
 
-[gif]: https://github.com/Jan-Stepien/beer-team/blob/main/github_assets/ugly_beer_app.gif "Gif of app"
+[gif]: https://github.com/Jan-Stepien/beer-team-scrap/blob/main/github_assets/ugly_beer_app.gif "Gif of app"
