@@ -5,6 +5,9 @@ Beer team app where you can review beers of your choice and rate it
 ## Basic flow
 Create selection of beers and rate each beer of selection in 3 categories: appearance, aroma, taste
 
+## Technical stuff used
+Bloc( implemented my own bloc for Form validation flow ), Provider, Firebase Real-time Database,
+
 ## Future features
 Invite friends
 See summary of group
